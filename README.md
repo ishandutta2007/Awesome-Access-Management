@@ -8,18 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing / Starting Price | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Okta](https://www.okta.com/)** | Leading cloud identity platform for workforce and customer identity, SSO, MFA, and lifecycle management. | Starts at ~$6/user/month (requires $1,500/year minimum) | None (30-day trial available) |
-| **[Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)** | Microsoft’s cloud identity and access management service, deeply integrated with Microsoft 365 and Azure. | Starts at ~$6/user/month (P1) | Free edition available (included with Azure/M365) / up to 50k MAUs for External ID |
-| **[JumpCloud](https://jumpcloud.com/)** | Cloud directory platform that unifies identity, access, and device management. | Starts at ~$9–$13/user/month | None (30-day trial available) |
-| **[OneLogin](https://www.onelogin.com/)** | Cloud-based IAM solution focused on SSO, MFA, and directory integration. | Starts at ~$2–$8/user/month | None (30-day trial available) |
-| **[Ping Identity](https://www.pingidentity.com/)** | Enterprise identity security platform with strong federation and access management capabilities. | Starts at ~$3/user/month (Workforce Essential) | None (30-day trial available) |
-| **[ForgeRock](https://www.forgerock.com/)** | Comprehensive identity platform for large-scale workforce and customer identity use cases. | Custom pricing | None (trial available upon request) |
-| **[Auth0](https://auth0.com/)** | Developer-friendly identity platform for authentication and authorization in applications. | Starts at ~$35/month (Essentials) | Up to 7,500 MAUs free |
-| **[WorkOS](https://workos.com/)** | Platform that helps SaaS companies add enterprise features (SSO, Directory Sync, etc.). | Starts at ~$125/connection/month | Free User Management (AuthKit) up to 1,000,000 MAUs |
-| **[Frontegg](https://frontegg.com/)** | User management and authentication platform aimed at SaaS applications. | Custom / Tiered pricing | Free for up to 5 organizations |
-| **[ManageEngine ADSelfService Plus](https://www.manageengine.com/products/self-service-password/)** | Self-service password management and identity-related tools, often used alongside Active Directory. | Starts at ~$595/year | Free for up to 50 domain users |
+| Platform | Description | Pricing / Starting Price | Free Tier Limit | Company Size (Est. Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)** | Microsoft’s cloud identity and access management service, deeply integrated with Microsoft 365 and Azure. | Starts at ~$6/user/month (P1) | Free edition available (included with Azure/M365) / up to 50k MAUs for External ID | $4.0T Valuation / $100B+ Cloud Rev |
+| **[Okta](https://www.okta.com/)** | Leading cloud identity platform for workforce and customer identity, SSO, MFA, and lifecycle management. | Starts at ~$6/user/month (requires $1,500/year minimum) | None (30-day trial available) | $11.0B Valuation / $3.0B ARR |
+| **[Auth0](https://auth0.com/)** | Developer-friendly identity platform for authentication and authorization in applications. | Starts at ~$35/month (Essentials) | Up to 7,500 MAUs free | $6.5B Valuation (Acquired by Okta) |
+| **[Ping Identity](https://www.pingidentity.com/)** | Enterprise identity security platform with strong federation and access management capabilities. | Starts at ~$3/user/month (Workforce Essential) | None (30-day trial available) | $2.8B Valuation (Acquired by Thoma Bravo) |
+| **[JumpCloud](https://jumpcloud.com/)** | Cloud directory platform that unifies identity, access, and device management. | Starts at ~$9–$13/user/month | None (30-day trial available) | $2.6B Valuation |
+| **[ForgeRock](https://www.forgerock.com/)** | Comprehensive identity platform for large-scale workforce and customer identity use cases. | Custom pricing | None (trial available upon request) | $2.3B Valuation (Acquired by Thoma Bravo) |
+| **[WorkOS](https://workos.com/)** | Platform that helps SaaS companies add enterprise features (SSO, Directory Sync, etc.). | Starts at ~$125/connection/month | Free User Management (AuthKit) up to 1,000,000 MAUs | $2.0B Valuation |
+| **[ManageEngine ADSelfService Plus](https://www.manageengine.com/products/self-service-password/)** | Self-service password management and identity-related tools, often used alongside Active Directory. | Starts at ~$595/year | Free for up to 50 domain users | $1.0B+ Revenue (Zoho Corp) |
+| **[Frontegg](https://frontegg.com/)** | User management and authentication platform aimed at SaaS applications. | Custom / Tiered pricing | Free for up to 5 organizations | ~$200M Valuation |
+| **[OneLogin](https://www.onelogin.com/)** | Cloud-based IAM solution focused on SSO, MFA, and directory integration. | Starts at ~$2–$8/user/month | None (30-day trial available) | ~$150M Valuation (Acquired by One Identity) |
 
 
 ## 🔓 Open-Source Software
