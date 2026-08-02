@@ -1,4 +1,9 @@
-# Awesome-Access-Management
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Access Management Banner" width="100%">
+</p>
+
+# Awesome-Access-Management 🔐
+
 
 ## Similar Projects to Access Management Platforms
 
