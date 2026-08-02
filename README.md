@@ -4,6 +4,12 @@
 
 # Awesome Access Management & Identity Control Platforms 🔐
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+
 <!--
 SEO Description: A curated list of awesome Access Management and Identity & Access Management (IAM) platforms. Compare top SaaS suites like Okta, Microsoft Entra ID, and Auth0 with modern open-source alternatives like Keycloak, Authentik, ZITADEL, Ory, and Authelia.
 SEO Keywords: Access Management, Identity and Access Management, IAM, Open-Source IAM, Okta Alternative, Auth0 Alternative, Keycloak, Authentik, ZITADEL, SSO, MFA, User Lifecycle, Directory Services, SAML, OIDC, Access Control
